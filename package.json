@@ -1,7 +1,7 @@
 {
-  "name": "aether-shield",
+  "name": "nocker",
   "version": "1.0.0",
-  "description": "Open-source, declarative and observable firewall for modern infrastructures.",
+  "description": "The Nocker Tools Container Environment System.",
   "private": true,
   "type": "module",
   "workspaces": [
